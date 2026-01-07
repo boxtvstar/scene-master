@@ -1,0 +1,7 @@
+{
+  "name": "Scene Master by 디스이즈머니(ui개선버전)",
+  "description": "한 장의 이미지로 영화적 서사를 만드는 전문 AI 비주얼 에디팅 툴. 시네마틱 스토리보드 생성 및 3D 카메라 연출 기능을 제공합니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
